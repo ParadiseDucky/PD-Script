@@ -41,7 +41,7 @@ Heartbeat:Connect(HeartbeatUpdate)
 game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "Hell"; Text ="您未被加入白名单"; Duration = 2; })
 game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "Hell"; Text ="Fake😆"; Duration = 4; })
 
-local ui = loadstring(game:HttpGet("https://shz.al/~5Haok97"))();        
+local ui = loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadiseDucky/PD-Script/refs/heads/main/Ui%20(2).txt"))();        
 local win = ui:new("HellScript")
 --
 local UITab1 = win:Tab("信息",'7734068321')
